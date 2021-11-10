@@ -1,2 +1,2 @@
 # Pegatinas
-Imagenes para hacer mas grafico los proyectos dentro de GutHub
+Imagenes para hacer mas grafico los proyectos dentro de GitHub
