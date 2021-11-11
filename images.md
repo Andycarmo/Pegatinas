@@ -10,3 +10,5 @@
 ![Pensativo](https://user-images.githubusercontent.com/83571422/141052759-9f61c114-912c-44ba-a03c-fa093e64f132.jpg)
 <!-- ANGULAR -->
 ![angular](https://user-images.githubusercontent.com/83571422/141275633-4d9907da-92d4-4f9b-acd3-3c02e6156bad.jpg)
+<!-- Visual Studio Code -->
+![VSCODE](https://user-images.githubusercontent.com/83571422/141276042-1c5ca1c7-edad-4756-ad62-2e135961c450.jpg)
