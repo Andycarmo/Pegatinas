@@ -8,3 +8,5 @@
 ![Plumas](https://user-images.githubusercontent.com/83571422/141051192-b3a4b73e-a7a9-48e1-bc33-13b87a52ec61.jpg)
 <!-- Emoticon Pensativo -->
 ![Pensativo](https://user-images.githubusercontent.com/83571422/141052759-9f61c114-912c-44ba-a03c-fa093e64f132.jpg)
+<!-- ANGULAR -->
+![angular](https://user-images.githubusercontent.com/83571422/141275633-4d9907da-92d4-4f9b-acd3-3c02e6156bad.jpg)
