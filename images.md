@@ -12,3 +12,21 @@
 ![angular](https://user-images.githubusercontent.com/83571422/141275633-4d9907da-92d4-4f9b-acd3-3c02e6156bad.jpg)
 <!-- Visual Studio Code -->
 ![VSCODE](https://user-images.githubusercontent.com/83571422/141276042-1c5ca1c7-edad-4756-ad62-2e135961c450.jpg)
+
+#### List
+
+|                                                                             Logo                                                                             |     Name     |                                              Description                                                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: | :----------------------------------------------------------------------------------------------------- |
+|               <a href="https://github.com/vuejs/vue-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/vue-9.svg"></a>               |   ![vue-npm]   |   Loads and compiles Vue Components                                                                      |
+|   <a href="https://github.com/webpack-contrib/polymer-webpack-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/polymer.svg"></a>   | ![polymer-npm] |  Process HTML & CSS with preprocessor of choice and `require()` Web Components like first-class modules |
+| <a href="https://github.com/TheLarkInn/angular2-template-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/angular-icon-1.svg"></a> | ![angular-npm] |  Loads and compiles Angular 2 Components                                                                |
+|              <a href="https://github.com/riot/webpack-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/riot.svg"></a>              |  ![VsCode]   |   Visual Studio Code                                                                           |
+
+[vue-npm]: https://img.shields.io/npm/v/vue-loader.svg
+[vue-size]: https://packagephobia.com/badge?p=vue-loader
+[polymer-npm]: https://img.shields.io/npm/v/polymer-webpack-loader.svg
+[polymer-size]: https://packagephobia.com/badge?p=polymer-webpack-loader
+[angular-npm]: https://img.shields.io/npm/v/angular2-template-loader.svg
+[angular-size]: https://packagephobia.com/badge?p=angular2-template-loader
+[VsCode]: https://user-images.githubusercontent.com/83571422/141276042-1c5ca1c7-edad-4756-ad62-2e135961c450.jpg
+[riot-size]: https://packagephobia.com/badge?p=riot-tag-loader
